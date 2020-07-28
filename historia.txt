@@ -1,4 +1,4 @@
-Este es mi comienzo en git con Platzi
+Este es mi comienzo en el curso de Git y GitHub con Platzi
 
 Material estudiado desde Julio de 2020
 
