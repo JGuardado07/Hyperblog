@@ -3,3 +3,5 @@ Este es mi comienzo en el curso de Git y GitHub con Platzi
 Material estudiado desde Julio de 2020
 
 Hacia un futuro con excelencia. 
+
+Hoy hablaremos de su vida
